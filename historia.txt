@@ -1,1 +1,2 @@
-prueba git
+prueba GIT
+Mi nombre es Camilo y tengo 23 años
